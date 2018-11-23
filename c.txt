@@ -1,2 +1,2 @@
 test for branch.
-modify in master.resolve conflict.
+modify in master.resolve conflict test.
