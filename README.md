@@ -1,2 +1,2 @@
 # githubtest
-just for promot test
+just for remote test
